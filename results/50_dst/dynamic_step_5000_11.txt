@@ -1,0 +1,1006 @@
+Detected from header: steps=5000, objects_per_step=11
+Test  | A*        | A* time   | A* steps | D* Lite   | D* time   | D* steps 
+--------------------------------------------------------------------------------
+1     | Path found| 5.479     | 54       | Path found| 4.844     | 54       
+2     | Path found| 7.214     | 62       | Path found| 7.506     | 62       
+3     | Path found| 6.169     | 66       | Path found| 6.981     | 76       
+4     | Path found| 8.103     | 65       | Path found| 5.543     | 65       
+5     | Path found| 5.856     | 67       | Path found| 5.709     | 67       
+6     | Path found| 4.819     | 54       | Path found| 6.270     | 56       
+7     | Path found| 4.354     | 53       | Path found| 3.462     | 53       
+8     | Path found| 7.287     | 63       | Path found| 7.581     | 67       
+9     | Path found| 4.226     | 55       | Path found| 4.937     | 55       
+10    | Path found| 3.919     | 52       | Path found| 3.961     | 52       
+11    | Path found| 6.594     | 60       | Path found| 4.808     | 60       
+12    | No path   | 5.625     | 25       | No path   | 5.762     | 25       
+13    | Path found| 7.193     | 67       | Path found| 6.394     | 67       
+14    | No path   | 2.726     | 9        | No path   | 3.858     | 9        
+15    | Path found| 4.972     | 55       | Path found| 5.075     | 59       
+16    | Path found| 5.341     | 62       | Path found| 6.080     | 62       
+17    | Path found| 4.939     | 59       | Path found| 5.285     | 61       
+18    | Path found| 3.723     | 52       | Path found| 4.130     | 52       
+19    | Path found| 7.061     | 60       | Path found| 5.605     | 66       
+20    | Path found| 6.526     | 64       | Path found| 5.132     | 64       
+21    | No path   | 6.370     | 22       | No path   | 7.192     | 22       
+22    | Path found| 7.284     | 63       | Path found| 5.483     | 63       
+23    | Path found| 5.854     | 58       | Path found| 10.564    | 64       
+24    | Path found| 4.571     | 53       | Path found| 4.099     | 53       
+25    | Path found| 5.618     | 53       | Path found| 8.705     | 59       
+26    | Path found| 11.137    | 71       | Path found| 8.525     | 71       
+27    | Path found| 3.358     | 50       | Path found| 3.744     | 50       
+28    | No path   | 4.964     | 30       | No path   | 6.384     | 30       
+29    | Path found| 5.104     | 53       | Path found| 4.060     | 53       
+30    | Path found| 7.116     | 62       | Path found| 6.049     | 62       
+31    | Path found| 4.634     | 53       | Path found| 3.583     | 53       
+32    | Path found| 7.738     | 65       | Path found| 6.140     | 65       
+33    | Path found| 4.115     | 52       | Path found| 4.460     | 54       
+34    | Path found| 5.577     | 60       | Path found| 6.016     | 62       
+35    | Path found| 4.975     | 56       | Path found| 4.885     | 56       
+36    | Path found| 6.540     | 62       | Path found| 6.283     | 62       
+37    | No path   | 5.305     | 30       | No path   | 6.122     | 30       
+38    | Path found| 6.305     | 59       | Path found| 5.078     | 59       
+39    | Path found| 4.013     | 54       | Path found| 4.458     | 54       
+40    | Path found| 3.545     | 54       | Path found| 4.155     | 54       
+41    | Path found| 5.321     | 58       | Path found| 5.430     | 58       
+42    | Path found| 12.418    | 76       | Path found| 7.362     | 76       
+43    | Path found| 5.487     | 59       | Path found| 4.793     | 59       
+44    | Path found| 3.723     | 50       | Path found| 4.895     | 62       
+45    | Path found| 7.280     | 64       | Path found| 5.674     | 64       
+46    | Path found| 5.071     | 57       | Path found| 4.797     | 57       
+47    | Path found| 6.681     | 64       | Path found| 6.548     | 64       
+48    | Path found| 6.523     | 62       | Path found| 5.222     | 62       
+49    | No path   | 2.447     | 6        | No path   | 4.029     | 6        
+50    | Path found| 3.362     | 50       | Path found| 4.128     | 50       
+51    | Path found| 11.366    | 74       | Path found| 7.610     | 76       
+52    | Path found| 4.545     | 55       | Path found| 4.255     | 55       
+53    | Path found| 5.672     | 60       | Path found| 6.196     | 62       
+54    | Path found| 4.604     | 60       | Path found| 6.062     | 64       
+55    | No path   | 5.271     | 46       | No path   | 5.872     | 46       
+56    | Path found| 8.935     | 70       | Path found| 7.348     | 72       
+57    | Path found| 10.622    | 76       | Path found| 7.903     | 76       
+58    | Path found| 13.910    | 79       | Path found| 8.313     | 79       
+59    | Path found| 3.829     | 50       | Path found| 4.437     | 50       
+60    | Path found| 4.193     | 54       | Path found| 4.380     | 54       
+61    | Path found| 10.095    | 73       | Path found| 7.239     | 73       
+62    | Path found| 8.299     | 70       | Path found| 6.507     | 72       
+63    | Path found| 6.515     | 61       | Path found| 5.812     | 61       
+64    | Path found| 5.172     | 52       | Path found| 3.755     | 52       
+65    | No path   | 9.420     | 47       | No path   | 15.430    | 47       
+66    | Path found| 5.646     | 58       | Path found| 5.009     | 58       
+67    | No path   | 8.087     | 52       | No path   | 9.371     | 52       
+68    | No path   | 5.879     | 49       | No path   | 8.107     | 49       
+69    | Path found| 3.895     | 52       | Path found| 3.331     | 52       
+70    | Path found| 5.006     | 58       | Path found| 5.293     | 60       
+71    | Path found| 6.095     | 67       | Path found| 6.507     | 65       
+72    | Path found| 4.852     | 59       | Path found| 5.279     | 57       
+73    | Path found| 2.831     | 54       | Path found| 4.617     | 56       
+74    | Path found| 3.730     | 57       | Path found| 4.368     | 57       
+75    | Path found| 6.253     | 62       | Path found| 6.438     | 60       
+76    | No path   | 10.619    | 54       | No path   | 8.310     | 54       
+77    | Path found| 8.984     | 70       | Path found| 6.882     | 70       
+78    | Path found| 7.013     | 59       | Path found| 6.723     | 59       
+79    | Path found| 4.195     | 53       | Path found| 3.946     | 53       
+80    | Path found| 4.261     | 52       | Path found| 3.857     | 52       
+81    | Path found| 6.584     | 59       | Path found| 4.931     | 59       
+82    | Path found| 9.052     | 67       | Path found| 6.018     | 67       
+83    | Path found| 6.688     | 58       | Path found| 4.435     | 58       
+84    | Path found| 3.908     | 54       | Path found| 4.570     | 56       
+85    | Path found| 8.757     | 75       | Path found| 7.290     | 75       
+86    | Path found| 9.350     | 71       | Path found| 6.990     | 71       
+87    | Path found| 9.761     | 73       | Path found| 9.315     | 73       
+88    | Path found| 5.040     | 59       | Path found| 4.418     | 59       
+89    | Path found| 3.286     | 54       | Path found| 4.384     | 56       
+90    | Path found| 3.669     | 50       | Path found| 3.815     | 50       
+91    | Path found| 6.248     | 58       | Path found| 5.195     | 58       
+92    | Path found| 2.809     | 50       | Path found| 3.541     | 50       
+93    | Path found| 5.706     | 60       | Path found| 5.115     | 62       
+94    | Path found| 6.361     | 59       | Path found| 4.388     | 59       
+95    | Path found| 7.481     | 61       | Path found| 4.627     | 61       
+96    | Path found| 8.610     | 68       | Path found| 8.288     | 68       
+97    | Path found| 5.764     | 58       | Path found| 5.091     | 58       
+98    | Path found| 7.594     | 67       | Path found| 6.085     | 67       
+99    | Path found| 3.210     | 55       | Path found| 4.010     | 55       
+100   | Path found| 6.321     | 60       | Path found| 6.304     | 60       
+101   | Path found| 6.577     | 62       | Path found| 5.222     | 62       
+102   | Path found| 3.377     | 52       | Path found| 4.431     | 52       
+103   | Path found| 7.746     | 63       | Path found| 6.665     | 63       
+104   | Path found| 4.806     | 54       | Path found| 4.365     | 54       
+105   | Path found| 4.007     | 54       | Path found| 4.223     | 56       
+106   | Path found| 6.811     | 64       | Path found| 7.264     | 66       
+107   | No path   | 2.009     | 4        | No path   | 4.267     | 4        
+108   | Path found| 5.371     | 58       | Path found| 5.261     | 58       
+109   | Path found| 5.788     | 60       | Path found| 5.249     | 60       
+110   | Path found| 4.048     | 56       | Path found| 4.674     | 58       
+111   | Path found| 5.587     | 55       | Path found| 4.673     | 55       
+112   | Path found| 5.219     | 58       | Path found| 4.410     | 52       
+113   | Path found| 5.847     | 61       | Path found| 5.428     | 59       
+114   | Path found| 4.510     | 50       | Path found| 3.693     | 50       
+115   | Path found| 11.014    | 77       | Path found| 7.313     | 77       
+116   | Path found| 6.163     | 61       | Path found| 5.471     | 61       
+117   | Path found| 4.116     | 50       | Path found| 3.686     | 50       
+118   | No path   | 4.006     | 9        | No path   | 5.874     | 9        
+119   | Path found| 11.881    | 80       | Path found| 8.191     | 80       
+120   | Path found| 3.576     | 56       | Path found| 5.288     | 64       
+121   | Path found| 8.261     | 67       | Path found| 6.743     | 67       
+122   | Path found| 4.446     | 50       | Path found| 4.128     | 50       
+123   | Path found| 3.913     | 50       | Path found| 5.273     | 56       
+124   | Path found| 5.053     | 54       | Path found| 4.442     | 56       
+125   | Path found| 10.660    | 77       | Path found| 7.743     | 77       
+126   | Path found| 3.928     | 50       | Path found| 4.170     | 50       
+127   | Path found| 7.478     | 63       | Path found| 5.689     | 63       
+128   | Path found| 4.531     | 55       | Path found| 4.446     | 55       
+129   | Path found| 4.894     | 56       | Path found| 5.118     | 58       
+130   | Path found| 5.509     | 58       | Path found| 6.910     | 64       
+131   | Path found| 4.505     | 51       | Path found| 3.891     | 51       
+132   | Path found| 5.107     | 57       | Path found| 4.083     | 57       
+133   | Path found| 6.472     | 65       | Path found| 6.174     | 65       
+134   | Path found| 4.291     | 52       | Path found| 3.993     | 52       
+135   | Path found| 8.710     | 69       | Path found| 6.463     | 69       
+136   | Path found| 4.139     | 50       | Path found| 3.569     | 50       
+137   | Path found| 5.819     | 63       | Path found| 5.945     | 65       
+138   | Path found| 12.931    | 79       | Path found| 7.881     | 79       
+139   | Path found| 6.500     | 60       | Path found| 5.887     | 62       
+140   | Path found| 5.194     | 54       | Path found| 4.301     | 54       
+141   | Path found| 6.498     | 61       | Path found| 5.348     | 61       
+142   | Path found| 5.419     | 58       | Path found| 5.665     | 58       
+143   | Path found| 8.396     | 66       | Path found| 7.834     | 72       
+144   | Path found| 4.352     | 53       | Path found| 4.491     | 53       
+145   | No path   | 1.380     | 1        | No path   | 3.429     | 1        
+146   | Path found| 4.361     | 54       | Path found| 4.861     | 54       
+147   | Path found| 4.584     | 53       | Path found| 4.244     | 53       
+148   | Path found| 5.209     | 54       | Path found| 5.963     | 54       
+149   | Path found| 8.093     | 66       | Path found| 5.619     | 66       
+150   | Path found| 6.276     | 65       | Path found| 10.223    | 65       
+151   | Path found| 8.398     | 69       | Path found| 7.614     | 71       
+152   | No path   | 1.444     | 1        | No path   | 2.235     | 1        
+153   | Path found| 6.362     | 66       | Path found| 6.372     | 70       
+154   | Path found| 6.317     | 56       | Path found| 4.489     | 56       
+155   | Path found| 9.005     | 68       | Path found| 6.474     | 68       
+156   | No path   | 8.351     | 57       | No path   | 13.225    | 57       
+157   | No path   | 4.107     | 25       | No path   | 4.795     | 25       
+158   | No path   | 3.008     | 14       | No path   | 3.094     | 14       
+159   | Path found| 12.891    | 82       | Path found| 8.223     | 82       
+160   | Path found| 6.318     | 61       | Path found| 6.717     | 67       
+161   | Path found| 4.684     | 58       | Path found| 5.028     | 58       
+162   | Path found| 9.907     | 70       | Path found| 7.683     | 72       
+163   | Path found| 5.299     | 56       | Path found| 4.670     | 56       
+164   | Path found| 6.143     | 62       | Path found| 6.541     | 62       
+165   | No path   | 4.473     | 9        | No path   | 6.585     | 9        
+166   | Path found| 4.227     | 52       | Path found| 4.208     | 52       
+167   | Path found| 5.949     | 57       | Path found| 4.337     | 57       
+168   | Path found| 3.179     | 54       | Path found| 3.840     | 54       
+169   | Path found| 6.834     | 70       | Path found| 6.872     | 74       
+170   | Path found| 3.740     | 51       | Path found| 3.583     | 51       
+171   | Path found| 4.998     | 56       | Path found| 6.642     | 56       
+172   | Path found| 5.713     | 58       | Path found| 5.815     | 58       
+173   | Path found| 5.230     | 56       | Path found| 4.312     | 56       
+174   | Path found| 5.995     | 57       | Path found| 4.993     | 59       
+175   | Path found| 10.291    | 75       | Path found| 7.088     | 75       
+176   | Path found| 5.024     | 57       | Path found| 5.203     | 59       
+177   | Path found| 5.504     | 55       | Path found| 5.945     | 59       
+178   | Path found| 5.226     | 60       | Path found| 5.124     | 60       
+179   | Path found| 4.434     | 52       | Path found| 3.945     | 52       
+180   | Path found| 5.912     | 58       | Path found| 4.983     | 58       
+181   | Path found| 5.557     | 55       | Path found| 3.848     | 55       
+182   | Path found| 2.558     | 52       | Path found| 3.320     | 52       
+183   | Path found| 5.400     | 64       | Path found| 5.912     | 66       
+184   | Path found| 7.534     | 65       | Path found| 6.703     | 69       
+185   | Path found| 3.145     | 56       | Path found| 3.827     | 56       
+186   | Path found| 4.146     | 50       | Path found| 3.889     | 50       
+187   | Path found| 11.379    | 75       | Path found| 8.361     | 75       
+188   | Path found| 6.932     | 64       | Path found| 6.610     | 68       
+189   | Path found| 4.364     | 56       | Path found| 4.258     | 52       
+190   | Path found| 5.052     | 62       | Path found| 6.498     | 66       
+191   | Path found| 3.533     | 54       | Path found| 3.681     | 54       
+192   | Path found| 7.497     | 69       | Path found| 6.237     | 69       
+193   | Path found| 6.637     | 65       | Path found| 6.169     | 65       
+194   | Path found| 4.543     | 56       | Path found| 4.551     | 52       
+195   | Path found| 3.502     | 52       | Path found| 4.405     | 52       
+196   | Path found| 7.162     | 63       | Path found| 7.212     | 67       
+197   | Path found| 11.694    | 81       | Path found| 6.954     | 73       
+198   | Path found| 4.880     | 55       | Path found| 4.647     | 57       
+199   | No path   | 7.431     | 56       | No path   | 8.214     | 56       
+200   | Path found| 3.540     | 52       | Path found| 3.739     | 50       
+201   | Path found| 5.714     | 61       | Path found| 6.967     | 61       
+202   | Path found| 9.821     | 75       | Path found| 7.361     | 75       
+203   | Path found| 7.326     | 65       | Path found| 6.630     | 67       
+204   | Path found| 9.450     | 70       | Path found| 6.298     | 70       
+205   | Path found| 5.631     | 58       | Path found| 5.525     | 58       
+206   | Path found| 5.395     | 55       | Path found| 3.575     | 55       
+207   | Path found| 4.606     | 54       | Path found| 3.849     | 54       
+208   | Path found| 8.797     | 67       | Path found| 5.736     | 67       
+209   | Path found| 5.048     | 60       | Path found| 4.939     | 60       
+210   | Path found| 3.988     | 50       | Path found| 3.896     | 50       
+211   | Path found| 4.853     | 56       | Path found| 5.643     | 60       
+212   | Path found| 5.003     | 54       | Path found| 4.439     | 54       
+213   | Path found| 4.544     | 54       | Path found| 4.727     | 56       
+214   | Path found| 4.356     | 53       | Path found| 4.836     | 55       
+215   | Path found| 6.101     | 62       | Path found| 5.457     | 62       
+216   | No path   | 4.972     | 38       | No path   | 6.268     | 38       
+217   | Path found| 8.273     | 69       | Path found| 7.823     | 71       
+218   | No path   | 3.936     | 17       | No path   | 4.846     | 17       
+219   | Path found| 7.522     | 67       | Path found| 7.193     | 67       
+220   | Path found| 6.758     | 63       | Path found| 5.631     | 63       
+221   | Path found| 9.743     | 71       | Path found| 6.497     | 71       
+222   | Path found| 2.867     | 52       | Path found| 3.659     | 52       
+223   | No path   | 4.191     | 12       | No path   | 5.036     | 12       
+224   | Path found| 4.655     | 53       | Path found| 4.266     | 53       
+225   | No path   | 7.585     | 55       | No path   | 11.509    | 55       
+226   | Path found| 5.114     | 56       | Path found| 5.690     | 62       
+227   | No path   | 7.332     | 35       | No path   | 9.248     | 35       
+228   | Path found| 5.987     | 56       | Path found| 4.570     | 56       
+229   | No path   | 6.525     | 45       | No path   | 8.004     | 45       
+230   | Path found| 3.841     | 53       | Path found| 3.855     | 53       
+231   | Path found| 5.510     | 60       | Path found| 6.717     | 68       
+232   | No path   | 7.988     | 50       | No path   | 8.195     | 50       
+233   | Path found| 5.181     | 56       | Path found| 5.448     | 56       
+234   | Path found| 6.629     | 59       | Path found| 5.550     | 59       
+235   | Path found| 6.670     | 60       | Path found| 5.401     | 60       
+236   | Path found| 6.379     | 62       | Path found| 5.838     | 62       
+237   | Path found| 5.599     | 57       | Path found| 3.822     | 53       
+238   | Path found| 5.938     | 57       | Path found| 10.919    | 57       
+239   | Path found| 3.841     | 52       | Path found| 4.479     | 52       
+240   | Path found| 5.658     | 60       | Path found| 6.284     | 60       
+241   | Path found| 3.727     | 53       | Path found| 4.109     | 53       
+242   | Path found| 9.890     | 69       | Path found| 6.286     | 69       
+243   | Path found| 3.210     | 51       | Path found| 3.980     | 53       
+244   | Path found| 12.559    | 79       | Path found| 8.184     | 79       
+245   | Path found| 5.651     | 58       | Path found| 4.413     | 58       
+246   | Path found| 6.555     | 64       | Path found| 7.888     | 66       
+247   | Path found| 5.130     | 58       | Path found| 5.056     | 56       
+248   | Path found| 4.623     | 62       | Path found| 5.949     | 62       
+249   | Path found| 3.793     | 52       | Path found| 3.774     | 52       
+250   | Path found| 5.417     | 59       | Path found| 5.571     | 61       
+251   | Path found| 3.659     | 55       | Path found| 4.470     | 57       
+252   | Path found| 7.599     | 68       | Path found| 5.886     | 68       
+253   | Path found| 5.688     | 56       | Path found| 4.319     | 56       
+254   | No path   | 3.102     | 10       | No path   | 4.357     | 10       
+255   | Path found| 4.524     | 58       | Path found| 4.671     | 58       
+256   | Path found| 3.552     | 54       | Path found| 4.202     | 56       
+257   | Path found| 4.702     | 55       | Path found| 5.357     | 57       
+258   | Path found| 4.887     | 50       | Path found| 3.489     | 50       
+259   | Path found| 5.886     | 66       | Path found| 4.807     | 58       
+260   | Path found| 3.975     | 52       | Path found| 4.341     | 52       
+261   | Path found| 5.095     | 57       | Path found| 5.215     | 57       
+262   | Path found| 12.671    | 77       | Path found| 8.390     | 77       
+263   | Path found| 2.284     | 50       | Path found| 2.911     | 50       
+264   | No path   | 3.592     | 10       | No path   | 5.337     | 10       
+265   | Path found| 4.272     | 52       | Path found| 4.157     | 52       
+266   | Path found| 3.738     | 50       | Path found| 3.697     | 50       
+267   | Path found| 10.282    | 74       | Path found| 7.503     | 74       
+268   | No path   | 7.781     | 51       | No path   | 14.777    | 51       
+269   | Path found| 7.279     | 60       | Path found| 4.942     | 60       
+270   | No path   | 5.542     | 50       | No path   | 6.247     | 50       
+271   | Path found| 3.836     | 52       | Path found| 3.936     | 52       
+272   | Path found| 4.226     | 53       | Path found| 4.333     | 53       
+273   | Path found| 4.792     | 57       | Path found| 4.951     | 57       
+274   | Path found| 4.910     | 54       | Path found| 3.979     | 54       
+275   | Path found| 7.937     | 71       | Path found| 6.976     | 71       
+276   | Path found| 4.697     | 52       | Path found| 5.492     | 56       
+277   | Path found| 3.732     | 53       | Path found| 3.979     | 53       
+278   | Path found| 5.502     | 55       | Path found| 4.698     | 55       
+279   | Path found| 8.672     | 66       | Path found| 6.315     | 66       
+280   | Path found| 3.832     | 57       | Path found| 4.448     | 57       
+281   | Path found| 4.977     | 53       | Path found| 3.877     | 53       
+282   | Path found| 4.786     | 53       | Path found| 4.314     | 53       
+283   | Path found| 4.161     | 55       | Path found| 5.262     | 55       
+284   | Path found| 4.821     | 51       | Path found| 4.236     | 53       
+285   | Path found| 3.772     | 55       | Path found| 4.452     | 55       
+286   | Path found| 7.281     | 67       | Path found| 6.724     | 67       
+287   | Path found| 4.831     | 54       | Path found| 4.672     | 54       
+288   | No path   | 9.287     | 45       | No path   | 10.786    | 45       
+289   | Path found| 7.759     | 67       | Path found| 7.954     | 71       
+290   | Path found| 6.300     | 65       | Path found| 10.408    | 65       
+291   | Path found| 3.957     | 50       | Path found| 4.603     | 54       
+292   | Path found| 4.739     | 58       | Path found| 7.146     | 58       
+293   | Path found| 6.119     | 62       | Path found| 5.452     | 62       
+294   | Path found| 9.692     | 72       | Path found| 7.251     | 72       
+295   | Path found| 8.138     | 64       | Path found| 5.307     | 64       
+296   | Path found| 6.693     | 63       | Path found| 6.184     | 63       
+297   | Path found| 4.897     | 58       | Path found| 5.299     | 58       
+298   | Path found| 8.800     | 69       | Path found| 6.936     | 69       
+299   | No path   | 5.586     | 51       | No path   | 8.724     | 51       
+300   | Path found| 5.394     | 55       | Path found| 4.159     | 55       
+301   | Path found| 3.638     | 52       | Path found| 4.243     | 52       
+302   | Path found| 4.574     | 56       | Path found| 4.525     | 56       
+303   | No path   | 7.145     | 53       | No path   | 9.311     | 53       
+304   | Path found| 6.817     | 59       | Path found| 4.898     | 59       
+305   | No path   | 3.244     | 10       | No path   | 3.422     | 10       
+306   | Path found| 4.745     | 54       | Path found| 4.623     | 54       
+307   | Path found| 10.566    | 76       | Path found| 7.943     | 76       
+308   | Path found| 5.770     | 56       | Path found| 5.151     | 56       
+309   | Path found| 10.348    | 73       | Path found| 9.220     | 75       
+310   | Path found| 5.148     | 55       | Path found| 4.516     | 55       
+311   | Path found| 5.117     | 54       | Path found| 6.717     | 56       
+312   | No path   | 3.296     | 10       | No path   | 5.392     | 10       
+313   | Path found| 10.854    | 73       | Path found| 8.576     | 75       
+314   | No path   | 6.883     | 40       | No path   | 7.660     | 40       
+315   | No path   | 5.603     | 47       | No path   | 8.013     | 47       
+316   | No path   | 4.243     | 33       | No path   | 5.118     | 33       
+317   | Path found| 6.075     | 60       | Path found| 5.997     | 66       
+318   | Path found| 5.105     | 57       | Path found| 4.978     | 57       
+319   | Path found| 3.527     | 53       | Path found| 3.510     | 53       
+320   | Path found| 4.623     | 51       | Path found| 3.482     | 51       
+321   | Path found| 8.435     | 69       | Path found| 7.289     | 71       
+322   | Path found| 7.213     | 61       | Path found| 5.052     | 61       
+323   | Path found| 4.552     | 53       | Path found| 4.392     | 57       
+324   | Path found| 6.365     | 66       | Path found| 5.537     | 66       
+325   | Path found| 7.301     | 68       | Path found| 7.015     | 70       
+326   | No path   | 1.166     | 0        | No path   | 5.567     | 0        
+327   | Path found| 4.673     | 54       | Path found| 4.867     | 54       
+328   | Path found| 6.349     | 59       | Path found| 10.765    | 63       
+329   | Path found| 3.938     | 57       | Path found| 4.370     | 57       
+330   | Path found| 4.466     | 54       | Path found| 4.583     | 54       
+331   | Path found| 3.032     | 52       | Path found| 3.812     | 54       
+332   | Path found| 4.288     | 55       | Path found| 4.203     | 55       
+333   | No path   | 1.829     | 3        | No path   | 3.256     | 3        
+334   | Path found| 3.511     | 50       | Path found| 3.458     | 50       
+335   | Path found| 4.334     | 51       | Path found| 3.378     | 51       
+336   | Path found| 4.773     | 53       | Path found| 4.344     | 53       
+337   | Path found| 8.688     | 70       | Path found| 6.874     | 70       
+338   | Path found| 3.563     | 53       | Path found| 4.512     | 53       
+339   | Path found| 7.207     | 65       | Path found| 5.886     | 65       
+340   | Path found| 5.121     | 53       | Path found| 4.292     | 53       
+341   | Path found| 4.439     | 54       | Path found| 4.158     | 54       
+342   | Path found| 4.531     | 51       | Path found| 3.840     | 51       
+343   | Path found| 6.648     | 60       | No path   | 8.309     | 63       
+344   | Path found| 4.359     | 51       | Path found| 4.210     | 53       
+345   | Path found| 8.402     | 71       | Path found| 7.848     | 71       
+346   | Path found| 6.966     | 67       | Path found| 5.676     | 67       
+347   | Path found| 13.610    | 80       | Path found| 8.623     | 80       
+348   | Path found| 3.660     | 57       | Path found| 4.369     | 59       
+349   | Path found| 4.514     | 50       | Path found| 4.167     | 50       
+350   | Path found| 5.594     | 61       | Path found| 5.189     | 61       
+351   | No path   | 3.333     | 10       | No path   | 5.703     | 10       
+352   | Path found| 6.590     | 60       | Path found| 4.809     | 60       
+353   | No path   | 2.274     | 7        | No path   | 3.823     | 7        
+354   | Path found| 4.029     | 54       | Path found| 5.829     | 60       
+355   | Path found| 4.407     | 53       | Path found| 4.415     | 53       
+356   | Path found| 8.119     | 67       | Path found| 7.550     | 69       
+357   | Path found| 4.236     | 57       | Path found| 6.354     | 59       
+358   | Path found| 8.323     | 67       | Path found| 7.134     | 69       
+359   | Path found| 5.699     | 63       | Path found| 6.515     | 63       
+360   | Path found| 10.731    | 69       | Path found| 6.318     | 69       
+361   | Path found| 7.519     | 69       | Path found| 7.706     | 69       
+362   | Path found| 6.852     | 61       | Path found| 4.710     | 61       
+363   | No path   | 3.745     | 12       | No path   | 4.825     | 12       
+364   | Path found| 4.202     | 53       | Path found| 4.022     | 53       
+365   | Path found| 5.983     | 59       | Path found| 5.013     | 59       
+366   | No path   | 5.031     | 17       | No path   | 5.638     | 17       
+367   | Path found| 8.709     | 72       | Path found| 7.560     | 72       
+368   | No path   | 2.615     | 5        | No path   | 4.484     | 5        
+369   | Path found| 4.861     | 57       | Path found| 4.711     | 57       
+370   | Path found| 2.633     | 54       | Path found| 4.250     | 54       
+371   | Path found| 7.156     | 60       | Path found| 4.839     | 60       
+372   | No path   | 1.238     | 0        | No path   | 5.900     | 0        
+373   | Path found| 7.284     | 62       | Path found| 5.226     | 62       
+374   | No path   | 6.133     | 45       | No path   | 7.350     | 45       
+375   | Path found| 5.318     | 58       | Path found| 5.321     | 54       
+376   | Path found| 6.136     | 62       | Path found| 4.126     | 54       
+377   | Path found| 3.843     | 52       | Path found| 3.985     | 52       
+378   | No path   | 5.132     | 31       | No path   | 7.789     | 31       
+379   | Path found| 6.994     | 60       | Path found| 4.745     | 60       
+380   | Path found| 3.521     | 54       | Path found| 4.515     | 54       
+381   | Path found| 6.640     | 59       | Path found| 4.678     | 59       
+382   | No path   | 6.841     | 31       | No path   | 7.394     | 31       
+383   | Path found| 5.152     | 53       | Path found| 3.964     | 53       
+384   | Path found| 7.598     | 61       | Path found| 5.393     | 61       
+385   | Path found| 8.251     | 66       | Path found| 7.715     | 66       
+386   | Path found| 7.910     | 63       | Path found| 6.605     | 63       
+387   | Path found| 7.895     | 67       | Path found| 6.561     | 69       
+388   | No path   | 1.597     | 2        | No path   | 4.234     | 2        
+389   | Path found| 5.239     | 56       | Path found| 7.057     | 56       
+390   | Path found| 5.848     | 58       | Path found| 4.809     | 56       
+391   | Path found| 4.193     | 51       | Path found| 4.012     | 51       
+392   | Path found| 8.378     | 71       | Path found| 7.686     | 77       
+393   | Path found| 6.698     | 60       | Path found| 5.342     | 60       
+394   | Path found| 6.378     | 64       | Path found| 5.770     | 64       
+395   | No path   | 5.113     | 56       | No path   | 6.532     | 56       
+396   | Path found| 10.042    | 76       | Path found| 7.733     | 76       
+397   | Path found| 5.124     | 61       | Path found| 4.961     | 61       
+398   | Path found| 6.309     | 60       | Path found| 6.289     | 64       
+399   | Path found| 4.341     | 55       | Path found| 6.529     | 57       
+400   | Path found| 4.561     | 63       | Path found| 4.224     | 51       
+401   | Path found| 4.667     | 52       | Path found| 4.219     | 52       
+402   | Path found| 4.958     | 55       | Path found| 4.867     | 57       
+403   | Path found| 10.535    | 76       | Path found| 7.717     | 74       
+404   | Path found| 8.207     | 71       | Path found| 6.961     | 71       
+405   | Path found| 5.549     | 54       | Path found| 4.411     | 54       
+406   | Path found| 4.299     | 50       | Path found| 4.694     | 50       
+407   | Path found| 7.615     | 68       | Path found| 6.418     | 68       
+408   | Path found| 6.560     | 65       | Path found| 5.779     | 65       
+409   | Path found| 6.077     | 59       | Path found| 7.324     | 55       
+410   | Path found| 5.763     | 61       | Path found| 6.235     | 67       
+411   | Path found| 4.450     | 50       | Path found| 3.870     | 50       
+412   | Path found| 3.822     | 50       | Path found| 4.278     | 52       
+413   | Path found| 4.715     | 54       | Path found| 7.214     | 58       
+414   | Path found| 3.999     | 52       | Path found| 4.106     | 52       
+415   | Path found| 11.370    | 74       | Path found| 7.423     | 74       
+416   | Path found| 7.315     | 63       | Path found| 5.208     | 63       
+417   | Path found| 6.669     | 64       | Path found| 6.369     | 64       
+418   | Path found| 7.200     | 67       | Path found| 6.038     | 67       
+419   | Path found| 5.370     | 57       | Path found| 6.482     | 57       
+420   | Path found| 4.360     | 50       | Path found| 3.811     | 50       
+421   | Path found| 3.695     | 50       | Path found| 4.019     | 50       
+422   | Path found| 6.360     | 61       | Path found| 4.281     | 55       
+423   | Path found| 7.725     | 66       | Path found| 6.073     | 66       
+424   | Path found| 5.716     | 58       | Path found| 5.029     | 58       
+425   | Path found| 5.226     | 56       | Path found| 4.879     | 56       
+426   | Path found| 5.630     | 57       | Path found| 4.119     | 57       
+427   | Path found| 5.412     | 56       | Path found| 4.737     | 56       
+428   | Path found| 3.030     | 53       | Path found| 3.628     | 53       
+429   | Path found| 6.513     | 70       | Path found| 6.771     | 70       
+430   | Path found| 6.108     | 63       | Path found| 5.307     | 63       
+431   | Path found| 6.208     | 60       | Path found| 5.790     | 60       
+432   | Path found| 6.011     | 62       | Path found| 5.464     | 62       
+433   | Path found| 7.213     | 66       | Path found| 6.155     | 66       
+434   | Path found| 9.759     | 71       | Path found| 7.286     | 77       
+435   | No path   | 3.828     | 9        | No path   | 6.410     | 9        
+436   | Path found| 4.458     | 50       | Path found| 3.952     | 50       
+437   | Path found| 4.332     | 53       | Path found| 5.207     | 57       
+438   | Path found| 5.243     | 52       | Path found| 10.220    | 56       
+439   | Path found| 4.459     | 52       | Path found| 3.814     | 52       
+440   | Path found| 4.525     | 51       | Path found| 4.055     | 51       
+441   | Path found| 4.402     | 55       | Path found| 4.966     | 61       
+442   | Path found| 4.712     | 56       | Path found| 5.406     | 56       
+443   | Path found| 4.596     | 52       | Path found| 4.927     | 56       
+444   | Path found| 4.344     | 60       | Path found| 4.842     | 58       
+445   | Path found| 4.374     | 52       | Path found| 3.919     | 52       
+446   | Path found| 13.934    | 83       | Path found| 8.449     | 83       
+447   | Path found| 4.666     | 54       | Path found| 4.311     | 54       
+448   | Path found| 4.624     | 56       | Path found| 4.543     | 56       
+449   | Path found| 6.941     | 64       | Path found| 6.113     | 64       
+450   | No path   | 6.481     | 18       | No path   | 7.009     | 18       
+451   | Path found| 6.286     | 60       | Path found| 6.038     | 62       
+452   | Path found| 5.116     | 56       | Path found| 4.668     | 56       
+453   | Path found| 8.018     | 69       | Path found| 6.449     | 69       
+454   | No path   | 5.031     | 47       | No path   | 6.380     | 47       
+455   | Path found| 5.867     | 60       | Path found| 6.732     | 60       
+456   | Path found| 7.410     | 68       | Path found| 5.968     | 68       
+457   | Path found| 6.618     | 62       | Path found| 6.747     | 66       
+458   | Path found| 6.508     | 62       | Path found| 5.724     | 62       
+459   | Path found| 7.778     | 65       | Path found| 5.761     | 65       
+460   | Path found| 4.665     | 50       | Path found| 4.476     | 50       
+461   | Path found| 4.488     | 50       | Path found| 4.540     | 52       
+462   | Path found| 4.226     | 56       | Path found| 4.683     | 56       
+463   | Path found| 4.656     | 51       | Path found| 4.048     | 51       
+464   | No path   | 5.954     | 23       | No path   | 6.738     | 23       
+465   | Path found| 9.642     | 72       | Path found| 7.166     | 72       
+466   | Path found| 9.103     | 71       | Path found| 6.812     | 71       
+467   | Path found| 4.749     | 52       | Path found| 3.591     | 52       
+468   | Path found| 4.075     | 50       | Path found| 3.622     | 50       
+469   | No path   | 7.440     | 18       | No path   | 7.729     | 18       
+470   | No path   | 1.668     | 2        | No path   | 3.982     | 2        
+471   | Path found| 4.563     | 50       | Path found| 4.054     | 50       
+472   | Path found| 5.091     | 57       | Path found| 7.861     | 55       
+473   | Path found| 5.187     | 58       | Path found| 5.048     | 58       
+474   | Path found| 4.985     | 63       | Path found| 6.392     | 71       
+475   | Path found| 5.752     | 60       | Path found| 6.188     | 66       
+476   | Path found| 4.932     | 55       | Path found| 4.796     | 55       
+477   | Path found| 7.188     | 72       | Path found| 6.988     | 72       
+478   | Path found| 5.755     | 60       | Path found| 5.004     | 60       
+479   | Path found| 8.785     | 63       | Path found| 12.030    | 67       
+480   | No path   | 4.527     | 28       | No path   | 5.731     | 28       
+481   | Path found| 2.939     | 53       | Path found| 3.497     | 53       
+482   | Path found| 3.918     | 58       | Path found| 4.224     | 58       
+483   | Path found| 5.129     | 54       | Path found| 5.220     | 56       
+484   | Path found| 5.039     | 58       | Path found| 5.479     | 60       
+485   | Path found| 11.966    | 81       | Path found| 8.595     | 81       
+486   | Path found| 5.453     | 61       | Path found| 6.168     | 63       
+487   | Path found| 4.065     | 51       | Path found| 4.760     | 53       
+488   | Path found| 7.789     | 66       | Path found| 6.087     | 66       
+489   | Path found| 9.994     | 71       | Path found| 10.449    | 75       
+490   | Path found| 9.343     | 70       | Path found| 6.797     | 70       
+491   | Path found| 7.666     | 64       | Path found| 5.735     | 64       
+492   | No path   | 5.000     | 40       | No path   | 5.614     | 40       
+493   | Path found| 6.894     | 64       | Path found| 5.580     | 64       
+494   | Path found| 5.765     | 56       | Path found| 7.655     | 56       
+495   | Path found| 8.523     | 75       | Path found| 7.009     | 75       
+496   | Path found| 9.173     | 72       | Path found| 7.639     | 76       
+497   | Path found| 9.117     | 69       | Path found| 7.789     | 69       
+498   | Path found| 12.198    | 77       | Path found| 7.640     | 77       
+499   | Path found| 4.487     | 54       | Path found| 4.367     | 54       
+500   | Path found| 4.520     | 51       | Path found| 4.943     | 55       
+501   | Path found| 4.919     | 55       | Path found| 4.139     | 55       
+502   | Path found| 7.172     | 67       | Path found| 6.376     | 69       
+503   | Path found| 6.996     | 61       | Path found| 5.257     | 61       
+504   | Path found| 4.918     | 64       | Path found| 6.731     | 58       
+505   | Path found| 5.110     | 56       | Path found| 4.071     | 56       
+506   | Path found| 4.380     | 55       | Path found| 4.440     | 55       
+507   | Path found| 4.025     | 51       | Path found| 5.453     | 57       
+508   | Path found| 10.542    | 74       | Path found| 7.170     | 74       
+509   | Path found| 6.426     | 57       | Path found| 4.913     | 57       
+510   | Path found| 4.080     | 50       | Path found| 6.195     | 52       
+511   | Path found| 8.027     | 65       | Path found| 7.759     | 65       
+512   | Path found| 12.734    | 76       | Path found| 7.642     | 76       
+513   | Path found| 6.412     | 62       | Path found| 6.200     | 66       
+514   | Path found| 8.253     | 66       | Path found| 6.224     | 66       
+515   | Path found| 8.260     | 63       | Path found| 5.474     | 63       
+516   | Path found| 4.392     | 52       | Path found| 4.084     | 52       
+517   | Path found| 5.349     | 55       | Path found| 5.086     | 55       
+518   | Path found| 2.463     | 52       | Path found| 3.377     | 52       
+519   | No path   | 4.791     | 40       | No path   | 6.827     | 40       
+520   | Path found| 8.202     | 67       | Path found| 7.841     | 71       
+521   | Path found| 4.170     | 56       | Path found| 6.046     | 56       
+522   | Path found| 4.442     | 50       | Path found| 3.591     | 50       
+523   | Path found| 5.526     | 56       | Path found| 4.322     | 56       
+524   | Path found| 3.616     | 58       | Path found| 4.197     | 58       
+525   | Path found| 9.065     | 72       | Path found| 7.002     | 72       
+526   | Path found| 5.083     | 55       | Path found| 4.427     | 55       
+527   | Path found| 5.904     | 59       | Path found| 5.149     | 59       
+528   | Path found| 5.765     | 60       | Path found| 5.201     | 60       
+529   | Path found| 5.067     | 57       | Path found| 3.845     | 57       
+530   | No path   | 5.262     | 23       | No path   | 7.204     | 23       
+531   | Path found| 4.541     | 56       | Path found| 3.913     | 56       
+532   | Path found| 5.368     | 56       | Path found| 6.537     | 56       
+533   | Path found| 5.434     | 62       | Path found| 5.757     | 62       
+534   | No path   | 1.961     | 3        | No path   | 4.529     | 3        
+535   | Path found| 9.319     | 67       | Path found| 6.172     | 67       
+536   | Path found| 4.401     | 59       | Path found| 5.486     | 59       
+537   | Path found| 6.401     | 63       | Path found| 5.390     | 65       
+538   | Path found| 6.675     | 59       | Path found| 5.121     | 57       
+539   | Path found| 9.192     | 76       | Path found| 7.606     | 76       
+540   | Path found| 5.201     | 58       | Path found| 4.709     | 58       
+541   | Path found| 7.652     | 66       | Path found| 6.438     | 66       
+542   | No path   | 4.450     | 28       | No path   | 5.722     | 28       
+543   | Path found| 8.989     | 71       | Path found| 8.421     | 73       
+544   | Path found| 5.320     | 60       | Path found| 5.455     | 62       
+545   | Path found| 11.433    | 76       | Path found| 8.855     | 82       
+546   | Path found| 4.145     | 52       | Path found| 4.177     | 52       
+547   | Path found| 4.300     | 52       | Path found| 4.524     | 52       
+548   | Path found| 4.346     | 52       | Path found| 4.493     | 52       
+549   | Path found| 6.678     | 67       | Path found| 6.188     | 67       
+550   | Path found| 5.435     | 60       | Path found| 4.769     | 60       
+551   | Path found| 5.773     | 64       | Path found| 6.325     | 60       
+552   | Path found| 5.920     | 56       | Path found| 4.495     | 56       
+553   | Path found| 3.787     | 50       | Path found| 3.408     | 50       
+554   | Path found| 5.865     | 58       | Path found| 9.580     | 66       
+555   | Path found| 3.587     | 50       | Path found| 4.525     | 58       
+556   | Path found| 5.090     | 51       | Path found| 4.371     | 53       
+557   | Path found| 4.460     | 57       | Path found| 4.372     | 57       
+558   | Path found| 8.843     | 68       | Path found| 7.365     | 76       
+559   | No path   | 3.880     | 18       | No path   | 4.560     | 18       
+560   | Path found| 7.766     | 69       | Path found| 7.079     | 71       
+561   | Path found| 6.231     | 63       | Path found| 5.324     | 63       
+562   | Path found| 4.309     | 50       | Path found| 3.791     | 50       
+563   | Path found| 6.732     | 64       | Path found| 5.853     | 64       
+564   | Path found| 5.106     | 56       | Path found| 5.024     | 58       
+565   | Path found| 11.163    | 77       | Path found| 9.025     | 75       
+566   | Path found| 4.360     | 54       | Path found| 4.395     | 54       
+567   | Path found| 7.591     | 66       | Path found| 6.478     | 66       
+568   | Path found| 5.216     | 62       | Path found| 4.924     | 62       
+569   | Path found| 5.403     | 56       | Path found| 5.187     | 56       
+570   | Path found| 6.373     | 61       | Path found| 5.186     | 61       
+571   | No path   | 2.668     | 10       | No path   | 4.536     | 10       
+572   | Path found| 7.542     | 67       | Path found| 7.809     | 69       
+573   | Path found| 8.835     | 67       | Path found| 5.999     | 67       
+574   | Path found| 5.068     | 54       | Path found| 4.790     | 54       
+575   | No path   | 2.711     | 10       | No path   | 2.908     | 10       
+576   | Path found| 5.096     | 55       | Path found| 4.532     | 55       
+577   | Path found| 5.208     | 52       | Path found| 3.633     | 52       
+578   | Path found| 9.811     | 70       | Path found| 6.717     | 70       
+579   | Path found| 7.074     | 63       | Path found| 5.756     | 63       
+580   | Path found| 5.137     | 59       | Path found| 6.415     | 57       
+581   | Path found| 6.357     | 61       | Path found| 5.413     | 61       
+582   | Path found| 5.599     | 62       | Path found| 7.995     | 64       
+583   | Path found| 3.111     | 52       | Path found| 4.904     | 52       
+584   | Path found| 3.535     | 53       | Path found| 4.351     | 53       
+585   | Path found| 4.810     | 56       | Path found| 4.633     | 56       
+586   | Path found| 5.116     | 55       | Path found| 4.174     | 55       
+587   | Path found| 5.130     | 54       | Path found| 3.983     | 54       
+588   | Path found| 4.358     | 54       | Path found| 3.949     | 54       
+589   | Path found| 5.250     | 54       | Path found| 4.238     | 54       
+590   | Path found| 4.295     | 52       | Path found| 5.374     | 58       
+591   | Path found| 4.235     | 51       | Path found| 3.809     | 51       
+592   | Path found| 5.115     | 58       | Path found| 6.160     | 64       
+593   | Path found| 5.610     | 59       | Path found| 4.437     | 57       
+594   | No path   | 3.946     | 30       | No path   | 4.825     | 30       
+595   | Path found| 5.199     | 56       | Path found| 8.842     | 58       
+596   | Path found| 8.216     | 67       | Path found| 5.902     | 67       
+597   | Path found| 4.930     | 52       | Path found| 4.592     | 52       
+598   | Path found| 5.276     | 56       | Path found| 6.033     | 62       
+599   | Path found| 6.067     | 58       | Path found| 5.083     | 58       
+600   | Path found| 6.677     | 65       | Path found| 5.939     | 65       
+601   | No path   | 7.390     | 52       | No path   | 7.025     | 52       
+602   | Path found| 4.370     | 51       | Path found| 4.123     | 51       
+603   | Path found| 3.825     | 52       | Path found| 3.965     | 52       
+604   | Path found| 5.630     | 60       | Path found| 5.045     | 60       
+605   | Path found| 3.492     | 52       | Path found| 4.138     | 54       
+606   | No path   | 7.523     | 58       | No path   | 9.475     | 58       
+607   | Path found| 4.110     | 53       | Path found| 4.456     | 53       
+608   | No path   | 3.129     | 13       | No path   | 4.082     | 13       
+609   | Path found| 5.819     | 56       | Path found| 4.441     | 56       
+610   | Path found| 8.434     | 68       | Path found| 6.745     | 68       
+611   | Path found| 3.402     | 56       | Path found| 4.301     | 58       
+612   | Path found| 4.792     | 56       | Path found| 4.768     | 56       
+613   | Path found| 5.201     | 54       | Path found| 4.110     | 54       
+614   | Path found| 7.142     | 63       | Path found| 5.509     | 63       
+615   | Path found| 13.341    | 80       | Path found| 8.283     | 80       
+616   | Path found| 5.977     | 61       | Path found| 5.125     | 61       
+617   | Path found| 4.652     | 51       | Path found| 4.136     | 53       
+618   | Path found| 7.760     | 64       | Path found| 7.124     | 66       
+619   | Path found| 8.661     | 67       | Path found| 5.982     | 67       
+620   | Path found| 2.432     | 51       | Path found| 3.344     | 51       
+621   | Path found| 5.780     | 58       | Path found| 5.131     | 58       
+622   | Path found| 5.211     | 53       | Path found| 4.887     | 53       
+623   | No path   | 11.949    | 42       | No path   | 10.345    | 42       
+624   | Path found| 3.983     | 52       | Path found| 5.015     | 58       
+625   | Path found| 5.819     | 60       | Path found| 5.203     | 60       
+626   | Path found| 4.944     | 61       | Path found| 5.989     | 65       
+627   | No path   | 1.744     | 2        | No path   | 2.525     | 2        
+628   | Path found| 3.819     | 51       | Path found| 3.943     | 53       
+629   | Path found| 9.641     | 75       | Path found| 7.269     | 75       
+630   | Path found| 4.277     | 57       | Path found| 5.549     | 63       
+631   | Path found| 4.750     | 60       | Path found| 6.967     | 60       
+632   | Path found| 4.975     | 58       | Path found| 5.340     | 60       
+633   | Path found| 3.094     | 52       | Path found| 3.344     | 52       
+634   | No path   | 1.593     | 3        | No path   | 2.376     | 3        
+635   | No path   | 6.801     | 59       | No path   | 8.048     | 59       
+636   | Path found| 6.253     | 62       | Path found| 8.454     | 62       
+637   | Path found| 4.367     | 51       | Path found| 3.729     | 51       
+638   | Path found| 4.860     | 50       | Path found| 7.698     | 58       
+639   | Path found| 4.263     | 52       | No path   | 1.656     | 0        
+640   | No path   | 2.245     | 6        | No path   | 4.151     | 6        
+641   | Path found| 3.821     | 50       | Path found| 4.149     | 50       
+642   | Path found| 7.680     | 64       | Path found| 5.628     | 64       
+643   | Path found| 4.696     | 58       | Path found| 4.846     | 60       
+644   | Path found| 8.376     | 70       | Path found| 6.476     | 68       
+645   | Path found| 5.047     | 55       | Path found| 5.066     | 55       
+646   | Path found| 10.333    | 72       | Path found| 6.926     | 72       
+647   | Path found| 4.092     | 52       | Path found| 5.587     | 52       
+648   | Path found| 7.179     | 64       | Path found| 8.928     | 64       
+649   | Path found| 5.084     | 56       | Path found| 5.510     | 58       
+650   | Path found| 12.265    | 76       | Path found| 7.488     | 76       
+651   | Path found| 6.399     | 59       | Path found| 6.643     | 59       
+652   | Path found| 3.899     | 50       | Path found| 4.385     | 52       
+653   | Path found| 5.388     | 60       | Path found| 6.185     | 62       
+654   | Path found| 5.899     | 63       | Path found| 5.946     | 61       
+655   | Path found| 8.172     | 66       | Path found| 6.263     | 66       
+656   | Path found| 8.842     | 63       | Path found| 4.974     | 63       
+657   | Path found| 4.859     | 55       | Path found| 4.083     | 55       
+658   | No path   | 3.894     | 12       | No path   | 4.968     | 12       
+659   | Path found| 5.272     | 55       | Path found| 4.489     | 55       
+660   | Path found| 4.577     | 54       | Path found| 4.608     | 54       
+661   | No path   | 5.359     | 33       | No path   | 4.868     | 33       
+662   | Path found| 4.686     | 55       | Path found| 6.566     | 55       
+663   | Path found| 5.146     | 56       | Path found| 8.697     | 54       
+664   | No path   | 5.559     | 25       | No path   | 6.582     | 25       
+665   | Path found| 5.094     | 56       | Path found| 5.118     | 58       
+666   | No path   | 4.117     | 8        | No path   | 6.463     | 8        
+667   | Path found| 7.962     | 68       | Path found| 6.861     | 68       
+668   | Path found| 6.070     | 58       | Path found| 5.060     | 58       
+669   | No path   | 9.548     | 36       | No path   | 16.731    | 36       
+670   | Path found| 6.052     | 61       | Path found| 5.443     | 61       
+671   | No path   | 2.085     | 3        | No path   | 5.496     | 3        
+672   | No path   | 6.386     | 23       | No path   | 7.296     | 23       
+673   | Path found| 4.361     | 53       | Path found| 4.735     | 57       
+674   | No path   | 1.141     | 0        | No path   | 5.268     | 0        
+675   | Path found| 4.211     | 56       | Path found| 4.923     | 56       
+676   | Path found| 12.397    | 79       | Path found| 7.407     | 75       
+677   | Path found| 5.353     | 57       | Path found| 5.256     | 57       
+678   | Path found| 4.376     | 53       | Path found| 4.298     | 55       
+679   | Path found| 3.773     | 52       | Path found| 4.092     | 52       
+680   | Path found| 4.743     | 52       | Path found| 3.826     | 52       
+681   | Path found| 6.446     | 59       | Path found| 4.433     | 59       
+682   | Path found| 3.997     | 51       | Path found| 5.768     | 63       
+683   | Path found| 4.267     | 57       | Path found| 5.853     | 53       
+684   | Path found| 6.575     | 62       | Path found| 7.153     | 68       
+685   | Path found| 5.951     | 64       | Path found| 6.254     | 68       
+686   | Path found| 4.871     | 53       | Path found| 4.616     | 55       
+687   | Path found| 5.910     | 63       | Path found| 5.263     | 57       
+688   | Path found| 4.252     | 54       | Path found| 5.023     | 56       
+689   | Path found| 7.014     | 63       | Path found| 5.131     | 63       
+690   | Path found| 7.899     | 63       | Path found| 5.097     | 63       
+691   | Path found| 6.805     | 63       | Path found| 6.152     | 63       
+692   | Path found| 4.092     | 58       | Path found| 5.280     | 64       
+693   | Path found| 13.458    | 80       | Path found| 8.692     | 80       
+694   | Path found| 6.697     | 59       | Path found| 7.440     | 61       
+695   | Path found| 8.287     | 67       | Path found| 6.119     | 67       
+696   | Path found| 10.071    | 73       | Path found| 6.944     | 71       
+697   | Path found| 5.599     | 61       | Path found| 9.182     | 69       
+698   | Path found| 5.830     | 57       | Path found| 4.794     | 57       
+699   | Path found| 5.355     | 54       | Path found| 3.931     | 54       
+700   | Path found| 3.632     | 51       | Path found| 4.397     | 51       
+701   | Path found| 7.439     | 63       | Path found| 6.159     | 63       
+702   | Path found| 2.746     | 53       | Path found| 4.192     | 53       
+703   | Path found| 3.980     | 53       | Path found| 5.413     | 55       
+704   | Path found| 4.502     | 52       | Path found| 5.152     | 58       
+705   | Path found| 4.153     | 60       | Path found| 5.538     | 60       
+706   | Path found| 3.495     | 55       | Path found| 5.415     | 55       
+707   | Path found| 5.385     | 54       | Path found| 7.902     | 54       
+708   | Path found| 10.776    | 81       | Path found| 7.960     | 81       
+709   | Path found| 7.525     | 64       | Path found| 7.046     | 66       
+710   | Path found| 11.331    | 75       | Path found| 7.894     | 75       
+711   | Path found| 7.305     | 64       | Path found| 8.567     | 64       
+712   | Path found| 4.665     | 50       | Path found| 3.758     | 50       
+713   | Path found| 5.472     | 61       | Path found| 5.556     | 61       
+714   | Path found| 7.713     | 66       | Path found| 5.847     | 66       
+715   | Path found| 7.036     | 62       | Path found| 5.320     | 62       
+716   | Path found| 3.540     | 54       | Path found| 4.220     | 54       
+717   | Path found| 5.409     | 55       | Path found| 4.631     | 55       
+718   | Path found| 6.463     | 66       | Path found| 6.866     | 70       
+719   | Path found| 4.416     | 52       | Path found| 5.520     | 64       
+720   | Path found| 4.592     | 53       | Path found| 4.954     | 55       
+721   | Path found| 3.642     | 53       | Path found| 4.933     | 55       
+722   | Path found| 4.100     | 53       | Path found| 4.162     | 53       
+723   | Path found| 4.705     | 54       | Path found| 4.610     | 54       
+724   | Path found| 4.497     | 56       | Path found| 4.532     | 56       
+725   | No path   | 6.493     | 25       | No path   | 8.296     | 25       
+726   | Path found| 5.619     | 59       | Path found| 6.090     | 63       
+727   | Path found| 5.021     | 56       | Path found| 9.120     | 62       
+728   | Path found| 9.554     | 72       | Path found| 6.776     | 72       
+729   | Path found| 2.888     | 51       | Path found| 3.537     | 51       
+730   | Path found| 6.940     | 62       | Path found| 6.705     | 64       
+731   | Path found| 5.328     | 62       | Path found| 5.991     | 62       
+732   | Path found| 3.804     | 59       | Path found| 4.892     | 59       
+733   | Path found| 5.035     | 56       | Path found| 5.102     | 56       
+734   | Path found| 4.396     | 53       | Path found| 3.879     | 53       
+735   | Path found| 4.182     | 50       | Path found| 4.052     | 50       
+736   | Path found| 4.442     | 53       | Path found| 4.513     | 53       
+737   | Path found| 3.671     | 53       | Path found| 4.255     | 55       
+738   | Path found| 3.777     | 50       | Path found| 3.982     | 52       
+739   | Path found| 3.380     | 59       | Path found| 6.849     | 59       
+740   | Path found| 8.376     | 66       | Path found| 6.341     | 66       
+741   | Path found| 3.557     | 55       | Path found| 5.538     | 55       
+742   | Path found| 6.163     | 63       | Path found| 8.596     | 65       
+743   | Path found| 5.637     | 62       | Path found| 5.675     | 62       
+744   | Path found| 3.633     | 52       | Path found| 4.361     | 52       
+745   | Path found| 7.548     | 67       | Path found| 6.132     | 67       
+746   | Path found| 4.231     | 51       | Path found| 3.713     | 51       
+747   | Path found| 4.497     | 53       | Path found| 4.103     | 53       
+748   | Path found| 4.948     | 53       | Path found| 3.600     | 53       
+749   | No path   | 2.645     | 4        | No path   | 5.562     | 4        
+750   | Path found| 8.234     | 64       | Path found| 5.729     | 64       
+751   | Path found| 6.016     | 63       | Path found| 5.501     | 63       
+752   | Path found| 4.753     | 52       | Path found| 4.500     | 54       
+753   | Path found| 5.972     | 61       | Path found| 7.209     | 57       
+754   | Path found| 6.687     | 63       | Path found| 9.315     | 65       
+755   | Path found| 4.935     | 57       | Path found| 6.374     | 61       
+756   | No path   | 7.330     | 47       | No path   | 11.315    | 47       
+757   | Path found| 5.080     | 52       | Path found| 3.728     | 52       
+758   | No path   | 9.555     | 37       | No path   | 10.584    | 37       
+759   | Path found| 8.455     | 69       | Path found| 6.862     | 71       
+760   | Path found| 5.982     | 54       | Path found| 4.245     | 54       
+761   | Path found| 6.092     | 58       | Path found| 5.697     | 58       
+762   | Path found| 3.091     | 53       | Path found| 4.396     | 53       
+763   | No path   | 3.604     | 18       | No path   | 2.882     | 18       
+764   | No path   | 2.612     | 6        | No path   | 3.020     | 6        
+765   | Path found| 11.829    | 79       | Path found| 7.684     | 77       
+766   | Path found| 3.767     | 55       | Path found| 6.072     | 59       
+767   | Path found| 12.234    | 76       | Path found| 7.987     | 76       
+768   | Path found| 6.759     | 64       | Path found| 6.080     | 64       
+769   | No path   | 7.750     | 53       | No path   | 8.226     | 53       
+770   | Path found| 6.495     | 59       | Path found| 5.252     | 59       
+771   | Path found| 9.233     | 69       | Path found| 7.400     | 69       
+772   | Path found| 6.511     | 64       | Path found| 6.388     | 68       
+773   | Path found| 5.433     | 60       | Path found| 5.750     | 60       
+774   | Path found| 5.233     | 58       | Path found| 4.998     | 56       
+775   | No path   | 5.363     | 52       | No path   | 7.299     | 52       
+776   | Path found| 2.870     | 52       | Path found| 4.271     | 52       
+777   | Path found| 6.748     | 62       | Path found| 5.436     | 62       
+778   | Path found| 5.267     | 52       | Path found| 3.838     | 52       
+779   | Path found| 6.716     | 64       | Path found| 5.857     | 64       
+780   | Path found| 6.519     | 63       | Path found| 5.793     | 61       
+781   | Path found| 3.727     | 50       | Path found| 4.064     | 52       
+782   | Path found| 8.607     | 70       | Path found| 7.432     | 70       
+783   | Path found| 4.411     | 51       | Path found| 5.598     | 55       
+784   | Path found| 4.548     | 52       | Path found| 7.614     | 60       
+785   | Path found| 4.143     | 55       | Path found| 5.088     | 61       
+786   | Path found| 3.116     | 53       | Path found| 4.150     | 55       
+787   | Path found| 4.617     | 62       | Path found| 7.080     | 62       
+788   | Path found| 3.963     | 50       | Path found| 4.094     | 50       
+789   | Path found| 12.788    | 83       | Path found| 8.414     | 83       
+790   | Path found| 4.176     | 50       | Path found| 4.380     | 50       
+791   | Path found| 3.591     | 55       | Path found| 4.157     | 55       
+792   | Path found| 6.517     | 65       | Path found| 4.747     | 57       
+793   | Path found| 5.079     | 58       | Path found| 7.207     | 60       
+794   | Path found| 6.000     | 61       | Path found| 5.554     | 61       
+795   | Path found| 7.273     | 67       | Path found| 12.433    | 71       
+796   | Path found| 4.066     | 53       | Path found| 4.437     | 53       
+797   | Path found| 4.800     | 56       | Path found| 4.248     | 54       
+798   | Path found| 4.620     | 59       | Path found| 4.910     | 59       
+799   | Path found| 8.447     | 64       | Path found| 6.659     | 64       
+800   | Path found| 6.770     | 63       | Path found| 5.619     | 63       
+801   | Path found| 4.901     | 54       | Path found| 4.620     | 54       
+802   | Path found| 4.921     | 64       | Path found| 5.774     | 64       
+803   | Path found| 8.985     | 71       | Path found| 6.832     | 71       
+804   | Path found| 4.109     | 51       | Path found| 4.270     | 51       
+805   | Path found| 3.720     | 52       | Path found| 4.204     | 52       
+806   | Path found| 3.535     | 50       | Path found| 3.237     | 50       
+807   | Path found| 5.202     | 53       | Path found| 4.345     | 53       
+808   | Path found| 4.850     | 55       | Path found| 4.545     | 55       
+809   | No path   | 2.883     | 10       | No path   | 4.135     | 10       
+810   | Path found| 5.161     | 52       | Path found| 4.454     | 52       
+811   | Path found| 4.259     | 52       | Path found| 4.852     | 54       
+812   | Path found| 10.013    | 69       | Path found| 6.520     | 69       
+813   | Path found| 5.305     | 57       | Path found| 4.713     | 57       
+814   | No path   | 5.879     | 36       | No path   | 9.594     | 36       
+815   | Path found| 16.613    | 87       | Path found| 9.108     | 87       
+816   | Path found| 7.486     | 64       | Path found| 6.067     | 64       
+817   | Path found| 5.132     | 54       | Path found| 5.076     | 54       
+818   | Path found| 5.098     | 55       | Path found| 7.783     | 55       
+819   | Path found| 4.776     | 54       | Path found| 6.303     | 50       
+820   | Path found| 4.822     | 53       | Path found| 4.361     | 53       
+821   | Path found| 10.459    | 68       | Path found| 11.282    | 70       
+822   | Path found| 4.959     | 55       | Path found| 5.817     | 55       
+823   | Path found| 4.515     | 62       | Path found| 5.576     | 68       
+824   | Path found| 5.222     | 54       | Path found| 8.077     | 52       
+825   | Path found| 6.462     | 55       | Path found| 4.317     | 55       
+826   | Path found| 5.794     | 62       | Path found| 7.210     | 64       
+827   | Path found| 5.907     | 61       | Path found| 8.395     | 65       
+828   | Path found| 4.239     | 51       | Path found| 4.103     | 51       
+829   | Path found| 4.597     | 53       | Path found| 5.148     | 53       
+830   | No path   | 5.003     | 21       | No path   | 4.691     | 21       
+831   | Path found| 3.007     | 52       | Path found| 3.565     | 52       
+832   | Path found| 4.858     | 58       | Path found| 4.797     | 60       
+833   | Path found| 9.228     | 70       | Path found| 6.726     | 70       
+834   | No path   | 3.510     | 9        | No path   | 5.168     | 9        
+835   | Path found| 4.134     | 55       | Path found| 4.653     | 55       
+836   | No path   | 1.619     | 3        | No path   | 2.816     | 3        
+837   | Path found| 5.006     | 55       | Path found| 4.781     | 57       
+838   | Path found| 2.578     | 51       | Path found| 3.378     | 53       
+839   | Path found| 5.120     | 57       | Path found| 5.181     | 57       
+840   | Path found| 5.314     | 55       | Path found| 4.241     | 55       
+841   | Path found| 3.969     | 51       | Path found| 4.243     | 53       
+842   | Path found| 5.225     | 55       | Path found| 4.765     | 55       
+843   | Path found| 6.194     | 60       | Path found| 8.051     | 62       
+844   | Path found| 4.605     | 54       | Path found| 3.703     | 54       
+845   | Path found| 4.303     | 55       | Path found| 4.490     | 57       
+846   | Path found| 5.638     | 58       | Path found| 6.891     | 54       
+847   | Path found| 9.975     | 75       | Path found| 10.762    | 75       
+848   | Path found| 5.920     | 59       | Path found| 5.184     | 59       
+849   | Path found| 4.918     | 54       | Path found| 4.788     | 56       
+850   | Path found| 5.758     | 64       | Path found| 5.302     | 64       
+851   | Path found| 8.535     | 72       | Path found| 6.608     | 72       
+852   | Path found| 7.655     | 67       | Path found| 6.467     | 67       
+853   | Path found| 5.657     | 62       | Path found| 6.292     | 64       
+854   | No path   | 4.825     | 23       | No path   | 5.351     | 23       
+855   | No path   | 1.849     | 2        | No path   | 4.966     | 2        
+856   | Path found| 7.649     | 64       | Path found| 6.277     | 64       
+857   | Path found| 4.298     | 52       | Path found| 4.166     | 52       
+858   | Path found| 4.839     | 54       | Path found| 4.737     | 54       
+859   | Path found| 6.583     | 59       | Path found| 4.882     | 59       
+860   | Path found| 5.738     | 57       | Path found| 4.108     | 57       
+861   | Path found| 3.523     | 56       | Path found| 4.683     | 56       
+862   | Path found| 6.162     | 61       | Path found| 7.041     | 63       
+863   | Path found| 6.827     | 63       | Path found| 6.181     | 63       
+864   | Path found| 3.799     | 54       | Path found| 4.887     | 58       
+865   | Path found| 5.176     | 56       | Path found| 4.767     | 56       
+866   | Path found| 6.315     | 62       | Path found| 6.042     | 64       
+867   | Path found| 3.832     | 57       | Path found| 5.090     | 61       
+868   | Path found| 8.565     | 68       | Path found| 6.487     | 68       
+869   | Path found| 7.204     | 63       | Path found| 5.210     | 61       
+870   | Path found| 2.306     | 51       | Path found| 3.250     | 51       
+871   | Path found| 7.564     | 61       | Path found| 5.167     | 61       
+872   | Path found| 6.136     | 59       | Path found| 5.211     | 59       
+873   | Path found| 13.579    | 81       | Path found| 8.562     | 81       
+874   | Path found| 5.464     | 55       | Path found| 4.270     | 55       
+875   | Path found| 4.900     | 57       | Path found| 4.914     | 57       
+876   | Path found| 7.264     | 68       | Path found| 6.936     | 70       
+877   | Path found| 13.476    | 83       | Path found| 8.210     | 83       
+878   | Path found| 5.293     | 55       | Path found| 4.167     | 55       
+879   | Path found| 5.884     | 55       | Path found| 5.627     | 57       
+880   | No path   | 6.498     | 33       | No path   | 9.411     | 33       
+881   | Path found| 4.697     | 52       | Path found| 3.947     | 52       
+882   | Path found| 8.096     | 63       | Path found| 5.145     | 63       
+883   | Path found| 9.102     | 77       | Path found| 8.071     | 81       
+884   | Path found| 2.657     | 50       | Path found| 3.277     | 50       
+885   | Path found| 4.768     | 52       | Path found| 5.588     | 52       
+886   | Path found| 7.417     | 62       | Path found| 5.181     | 62       
+887   | Path found| 3.837     | 52       | Path found| 4.014     | 52       
+888   | Path found| 7.206     | 68       | Path found| 10.413    | 68       
+889   | Path found| 6.556     | 63       | Path found| 6.847     | 67       
+890   | Path found| 11.220    | 75       | Path found| 8.085     | 75       
+891   | Path found| 5.140     | 54       | Path found| 4.560     | 54       
+892   | Path found| 6.871     | 62       | Path found| 5.157     | 62       
+893   | No path   | 4.708     | 14       | No path   | 6.362     | 14       
+894   | Path found| 3.190     | 51       | Path found| 3.523     | 51       
+895   | Path found| 6.078     | 60       | Path found| 4.698     | 56       
+896   | Path found| 6.320     | 58       | Path found| 4.356     | 58       
+897   | Path found| 6.182     | 59       | Path found| 4.683     | 59       
+898   | Path found| 5.171     | 54       | Path found| 5.363     | 62       
+899   | Path found| 3.995     | 55       | Path found| 5.778     | 57       
+900   | Path found| 2.804     | 55       | Path found| 4.265     | 55       
+901   | Path found| 4.841     | 53       | Path found| 3.646     | 53       
+902   | Path found| 9.820     | 74       | Path found| 7.438     | 74       
+903   | Path found| 5.304     | 59       | Path found| 4.822     | 55       
+904   | Path found| 4.482     | 52       | Path found| 4.199     | 52       
+905   | No path   | 9.221     | 58       | No path   | 9.403     | 58       
+906   | Path found| 7.759     | 66       | Path found| 5.804     | 66       
+907   | Path found| 6.559     | 64       | Path found| 5.618     | 64       
+908   | Path found| 5.370     | 56       | Path found| 4.808     | 56       
+909   | Path found| 9.176     | 73       | Path found| 7.827     | 75       
+910   | Path found| 4.423     | 54       | Path found| 4.540     | 54       
+911   | Path found| 6.268     | 57       | Path found| 5.073     | 57       
+912   | Path found| 4.536     | 53       | Path found| 4.479     | 53       
+913   | Path found| 4.765     | 54       | Path found| 4.414     | 54       
+914   | Path found| 3.229     | 53       | Path found| 5.730     | 55       
+915   | Path found| 5.555     | 58       | Path found| 5.105     | 58       
+916   | No path   | 5.369     | 33       | No path   | 6.900     | 33       
+917   | Path found| 4.009     | 56       | Path found| 4.451     | 56       
+918   | Path found| 5.005     | 54       | Path found| 5.192     | 54       
+919   | Path found| 4.325     | 55       | Path found| 4.826     | 57       
+920   | Path found| 6.105     | 62       | Path found| 9.886     | 68       
+921   | Path found| 5.478     | 58       | Path found| 5.054     | 58       
+922   | Path found| 7.387     | 65       | Path found| 6.045     | 65       
+923   | Path found| 6.198     | 63       | Path found| 6.688     | 65       
+924   | Path found| 4.039     | 50       | Path found| 4.618     | 52       
+925   | Path found| 4.735     | 58       | Path found| 4.584     | 58       
+926   | Path found| 5.004     | 56       | Path found| 5.155     | 56       
+927   | Path found| 4.879     | 54       | Path found| 5.161     | 58       
+928   | Path found| 3.622     | 52       | Path found| 3.730     | 54       
+929   | Path found| 5.980     | 58       | Path found| 4.193     | 58       
+930   | Path found| 6.042     | 56       | Path found| 5.200     | 56       
+931   | Path found| 7.074     | 73       | Path found| 5.274     | 61       
+932   | Path found| 5.847     | 60       | Path found| 4.991     | 60       
+933   | Path found| 3.341     | 50       | No path   | 5.507     | 50       
+934   | Path found| 5.487     | 54       | Path found| 4.404     | 54       
+935   | Path found| 4.007     | 52       | Path found| 3.877     | 52       
+936   | Path found| 6.156     | 56       | Path found| 4.133     | 56       
+937   | Path found| 4.853     | 52       | Path found| 4.175     | 54       
+938   | Path found| 7.797     | 66       | Path found| 6.172     | 66       
+939   | Path found| 8.645     | 66       | Path found| 5.861     | 66       
+940   | Path found| 4.550     | 60       | Path found| 5.491     | 62       
+941   | Path found| 6.840     | 62       | Path found| 6.928     | 70       
+942   | Path found| 4.416     | 55       | Path found| 4.610     | 55       
+943   | Path found| 8.503     | 64       | Path found| 6.813     | 72       
+944   | No path   | 1.703     | 4        | No path   | 3.119     | 4        
+945   | Path found| 7.599     | 67       | Path found| 6.304     | 67       
+946   | Path found| 5.082     | 55       | Path found| 5.224     | 59       
+947   | Path found| 7.379     | 64       | Path found| 6.178     | 66       
+948   | Path found| 5.727     | 60       | Path found| 10.178    | 68       
+949   | No path   | 9.124     | 52       | No path   | 9.956     | 52       
+950   | Path found| 4.869     | 55       | Path found| 8.799     | 67       
+951   | Path found| 4.166     | 51       | Path found| 4.822     | 51       
+952   | Path found| 11.068    | 76       | Path found| 7.913     | 74       
+953   | Path found| 4.590     | 54       | Path found| 8.452     | 64       
+954   | Path found| 8.292     | 68       | Path found| 12.502    | 68       
+955   | Path found| 5.136     | 58       | Path found| 5.539     | 60       
+956   | Path found| 3.936     | 51       | Path found| 4.200     | 51       
+957   | No path   | 5.752     | 24       | No path   | 6.310     | 24       
+958   | Path found| 7.877     | 64       | Path found| 5.191     | 64       
+959   | Path found| 6.509     | 66       | No path   | 9.535     | 67       
+960   | Path found| 7.208     | 66       | Path found| 6.208     | 66       
+961   | Path found| 3.323     | 50       | Path found| 3.633     | 50       
+962   | Path found| 4.535     | 51       | Path found| 6.012     | 51       
+963   | Path found| 4.315     | 51       | Path found| 3.786     | 51       
+964   | Path found| 4.348     | 51       | Path found| 3.303     | 51       
+965   | Path found| 4.886     | 60       | Path found| 5.243     | 60       
+966   | Path found| 4.169     | 50       | Path found| 3.039     | 50       
+967   | Path found| 4.228     | 54       | Path found| 4.804     | 56       
+968   | Path found| 6.949     | 66       | Path found| 7.063     | 68       
+969   | Path found| 5.834     | 58       | Path found| 4.759     | 58       
+970   | Path found| 7.530     | 66       | Path found| 6.518     | 66       
+971   | Path found| 7.004     | 66       | Path found| 5.786     | 66       
+972   | Path found| 5.634     | 60       | Path found| 6.002     | 62       
+973   | Path found| 4.016     | 56       | Path found| 4.602     | 60       
+974   | Path found| 4.583     | 56       | Path found| 4.741     | 56       
+975   | Path found| 5.416     | 58       | Path found| 4.970     | 58       
+976   | Path found| 6.169     | 55       | Path found| 4.157     | 55       
+977   | No path   | 4.258     | 23       | No path   | 5.444     | 23       
+978   | Path found| 3.478     | 51       | Path found| 4.057     | 51       
+979   | Path found| 12.063    | 81       | Path found| 8.551     | 81       
+980   | Path found| 6.217     | 64       | Path found| 5.142     | 58       
+981   | Path found| 6.714     | 62       | Path found| 11.546    | 62       
+982   | Path found| 3.735     | 59       | Path found| 4.644     | 57       
+983   | Path found| 4.703     | 60       | Path found| 5.297     | 60       
+984   | Path found| 13.703    | 84       | Path found| 8.731     | 84       
+985   | Path found| 3.967     | 55       | Path found| 4.876     | 55       
+986   | Path found| 10.900    | 73       | Path found| 7.661     | 73       
+987   | Path found| 6.981     | 65       | Path found| 6.379     | 61       
+988   | Path found| 3.806     | 55       | Path found| 4.775     | 55       
+989   | Path found| 5.574     | 58       | Path found| 5.229     | 58       
+990   | Path found| 5.184     | 59       | Path found| 6.342     | 59       
+991   | Path found| 6.845     | 64       | Path found| 5.514     | 64       
+992   | Path found| 3.933     | 53       | Path found| 3.606     | 53       
+993   | Path found| 4.556     | 55       | Path found| 4.217     | 55       
+994   | Path found| 4.418     | 57       | Path found| 6.429     | 57       
+995   | Path found| 3.934     | 50       | Path found| 4.410     | 58       
+996   | Path found| 10.533    | 71       | Path found| 7.087     | 71       
+997   | Path found| 3.791     | 53       | Path found| 6.193     | 55       
+998   | Path found| 5.124     | 53       | Path found| 6.291     | 53       
+999   | Path found| 3.675     | 50       | Path found| 4.036     | 50       
+1000  | Path found| 4.859     | 54       | Path found| 6.156     | 58       
+--------------------------------------------------------------------------------
+A* Dynamic     | ok=893  no_path=107  exceptions=0    avg=5.844    ms min=1.141    ms max=16.613   ms avg_steps=55.806   min_steps=0     max_steps=87   
+D* Dynamic     | ok=889  no_path=111  exceptions=0    avg=5.668    ms min=1.656    ms max=16.731   ms avg_steps=56.362   min_steps=0     max_steps=87   

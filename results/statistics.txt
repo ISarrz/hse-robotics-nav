@@ -1,0 +1,210 @@
+STATISTICS SUMMARY                                                    
+======================================================================
+
+Test: 10_dst                                                          
+---                                                                   
+
+  Static Test:                                                        
+    A*              time: 0.217ms        length: 33.2        
+    D*Lite          time: 1.256ms        length: 33.2        
+  Dynamic Test (steps=1):                                             
+    A*              time: 3.499ms        steps: 33.0         
+    D*Lite          time: 1.620ms        steps: 33.0         
+  Dynamic Test (steps=10):                                            
+    A*              time: 3.659ms        steps: 31.7         
+    D*Lite          time: 4.288ms        steps: 32.1         
+  Dynamic Test (steps=11):                                            
+    A*              time: 3.540ms        steps: 31.4         
+    D*Lite          time: 4.342ms        steps: 31.8         
+  Dynamic Test (steps=12):                                            
+    A*              time: 3.534ms        steps: 31.2         
+    D*Lite          time: 4.642ms        steps: 31.8         
+  Dynamic Test (steps=13):                                            
+    A*              time: 3.603ms        steps: 31.3         
+    D*Lite          time: 5.044ms        steps: 31.7         
+  Dynamic Test (steps=14):                                            
+    A*              time: 3.569ms        steps: 31.4         
+    D*Lite          time: 5.332ms        steps: 32.0         
+  Dynamic Test (steps=15):                                            
+    A*              time: 3.558ms        steps: 31.0         
+    D*Lite          time: 5.531ms        steps: 31.4         
+  Dynamic Test (steps=2):                                             
+    A*              time: 3.543ms        steps: 32.9         
+    D*Lite          time: 1.942ms        steps: 33.0         
+  Dynamic Test (steps=3):                                             
+    A*              time: 3.575ms        steps: 32.8         
+    D*Lite          time: 2.261ms        steps: 32.9         
+  Dynamic Test (steps=4):                                             
+    A*              time: 3.655ms        steps: 32.7         
+    D*Lite          time: 2.598ms        steps: 32.8         
+  Dynamic Test (steps=5):                                             
+    A*              time: 3.544ms        steps: 32.1         
+    D*Lite          time: 2.843ms        steps: 32.3         
+  Dynamic Test (steps=6):                                             
+    A*              time: 3.615ms        steps: 32.6         
+    D*Lite          time: 3.066ms        steps: 32.8         
+  Dynamic Test (steps=7):                                             
+    A*              time: 3.532ms        steps: 31.8         
+    D*Lite          time: 3.337ms        steps: 32.0         
+  Dynamic Test (steps=8):                                             
+    A*              time: 3.552ms        steps: 31.8         
+    D*Lite          time: 3.582ms        steps: 32.0         
+  Dynamic Test (steps=9):                                             
+    A*              time: 3.617ms        steps: 32.1         
+    D*Lite          time: 3.915ms        steps: 32.4         
+
+Test: 30_dst                                                          
+---                                                                   
+
+  Static Test:                                                        
+    A*              time: 0.322ms        length: 44.6        
+    D*Lite          time: 1.981ms        length: 44.6        
+  Dynamic Test (steps=1):                                             
+    A*              time: 7.240ms        steps: 44.5         
+    D*Lite          time: 3.099ms        steps: 44.5         
+  Dynamic Test (steps=10):                                            
+    A*              time: 6.148ms        steps: 43.0         
+    D*Lite          time: 6.342ms        steps: 43.3         
+  Dynamic Test (steps=11):                                            
+    A*              time: 5.801ms        steps: 42.3         
+    D*Lite          time: 6.540ms        steps: 42.8         
+  Dynamic Test (steps=12):                                            
+    A*              time: 5.844ms        steps: 42.8         
+    D*Lite          time: 6.851ms        steps: 43.3         
+  Dynamic Test (steps=13):                                            
+    A*              time: 6.068ms        steps: 42.2         
+    D*Lite          time: 7.847ms        steps: 42.9         
+  Dynamic Test (steps=14):                                            
+    A*              time: 5.901ms        steps: 42.1         
+    D*Lite          time: 7.719ms        steps: 42.7         
+  Dynamic Test (steps=15):                                            
+    A*              time: 6.337ms        steps: 42.1         
+    D*Lite          time: 8.867ms        steps: 42.9         
+  Dynamic Test (steps=2):                                             
+    A*              time: 8.847ms        steps: 44.0         
+    D*Lite          time: 4.398ms        steps: 44.0         
+  Dynamic Test (steps=3):                                             
+    A*              time: 6.354ms        steps: 43.9         
+    D*Lite          time: 3.686ms        steps: 44.2         
+  Dynamic Test (steps=4):                                             
+    A*              time: 6.254ms        steps: 43.6         
+    D*Lite          time: 4.141ms        steps: 43.8         
+  Dynamic Test (steps=5):                                             
+    A*              time: 6.215ms        steps: 43.6         
+    D*Lite          time: 4.623ms        steps: 43.9         
+  Dynamic Test (steps=6):                                             
+    A*              time: 7.143ms        steps: 43.6         
+    D*Lite          time: 5.942ms        steps: 43.9         
+  Dynamic Test (steps=7):                                             
+    A*              time: 6.108ms        steps: 43.6         
+    D*Lite          time: 5.355ms        steps: 44.0         
+  Dynamic Test (steps=8):                                             
+    A*              time: 6.466ms        steps: 42.9         
+    D*Lite          time: 5.806ms        steps: 43.1         
+  Dynamic Test (steps=9):                                             
+    A*              time: 5.764ms        steps: 43.3         
+    D*Lite          time: 5.880ms        steps: 43.7         
+
+Test: 50_dst                                                          
+---                                                                   
+
+  Static Test:                                                        
+    A*              time: 0.555ms        length: 58.8        
+    D*Lite          time: 3.705ms        length: 58.8        
+  Dynamic Test (steps=1):                                             
+    A*              time: 11.795ms       steps: 58.6         
+    D*Lite          time: 4.645ms        steps: 58.7         
+  Dynamic Test (steps=10):                                            
+    A*              time: 10.348ms       steps: 56.7         
+    D*Lite          time: 9.238ms        steps: 57.1         
+  Dynamic Test (steps=11):                                            
+    A*              time: 10.544ms       steps: 56.1         
+    D*Lite          time: 10.342ms       steps: 56.8         
+  Dynamic Test (steps=12):                                            
+    A*              time: 10.385ms       steps: 55.6         
+    D*Lite          time: 10.453ms       steps: 56.2         
+  Dynamic Test (steps=13):                                            
+    A*              time: 10.481ms       steps: 55.7         
+    D*Lite          time: 11.374ms       steps: 56.4         
+  Dynamic Test (steps=14):                                            
+    A*              time: 10.429ms       steps: 56.0         
+    D*Lite          time: 11.362ms       steps: 56.6         
+  Dynamic Test (steps=15):                                            
+    A*              time: 10.288ms       steps: 55.6         
+    D*Lite          time: 12.219ms       steps: 56.2         
+  Dynamic Test (steps=2):                                             
+    A*              time: 10.414ms       steps: 58.1         
+    D*Lite          time: 4.819ms        steps: 58.3         
+  Dynamic Test (steps=3):                                             
+    A*              time: 10.596ms       steps: 58.1         
+    D*Lite          time: 5.543ms        steps: 58.3         
+  Dynamic Test (steps=4):                                             
+    A*              time: 10.622ms       steps: 58.4         
+    D*Lite          time: 6.272ms        steps: 58.7         
+  Dynamic Test (steps=5):                                             
+    A*              time: 10.712ms       steps: 57.7         
+    D*Lite          time: 6.711ms        steps: 57.9         
+  Dynamic Test (steps=6):                                             
+    A*              time: 10.342ms       steps: 57.4         
+    D*Lite          time: 7.048ms        steps: 57.9         
+  Dynamic Test (steps=7):                                             
+    A*              time: 10.260ms       steps: 56.9         
+    D*Lite          time: 7.492ms        steps: 57.4         
+  Dynamic Test (steps=8):                                             
+    A*              time: 10.415ms       steps: 56.5         
+    D*Lite          time: 8.453ms        steps: 56.8         
+  Dynamic Test (steps=9):                                             
+    A*              time: 10.681ms       steps: 56.4         
+    D*Lite          time: 9.266ms        steps: 56.4         
+
+Test: 70_dst                                                          
+---                                                                   
+
+  Static Test:                                                        
+    A*              time: 0.739ms        length: 74.3        
+    D*Lite          time: 5.687ms        length: 74.3        
+  Dynamic Test (steps=1):                                             
+    A*              time: 18.289ms       steps: 74.1         
+    D*Lite          time: 6.782ms        steps: 74.2         
+  Dynamic Test (steps=10):                                            
+    A*              time: 10.363ms       steps: 71.2         
+    D*Lite          time: 7.962ms        steps: 71.5         
+  Dynamic Test (steps=11):                                            
+    A*              time: 10.282ms       steps: 70.4         
+    D*Lite          time: 8.254ms        steps: 70.9         
+  Dynamic Test (steps=12):                                            
+    A*              time: 10.227ms       steps: 70.7         
+    D*Lite          time: 8.531ms        steps: 71.5         
+  Dynamic Test (steps=13):                                            
+    A*              time: 10.243ms       steps: 70.6         
+    D*Lite          time: 8.937ms        steps: 71.0         
+  Dynamic Test (steps=14):                                            
+    A*              time: 10.292ms       steps: 68.9         
+    D*Lite          time: 9.595ms        steps: 69.7         
+  Dynamic Test (steps=15):                                            
+    A*              time: 10.319ms       steps: 70.1         
+    D*Lite          time: 9.790ms        steps: 70.9         
+  Dynamic Test (steps=2):                                             
+    A*              time: 18.314ms       steps: 73.2         
+    D*Lite          time: 7.685ms        steps: 73.2         
+  Dynamic Test (steps=3):                                             
+    A*              time: 17.865ms       steps: 73.3         
+    D*Lite          time: 8.205ms        steps: 73.4         
+  Dynamic Test (steps=4):                                             
+    A*              time: 10.445ms       steps: 73.5         
+    D*Lite          time: 5.351ms        steps: 73.6         
+  Dynamic Test (steps=5):                                             
+    A*              time: 10.427ms       steps: 73.2         
+    D*Lite          time: 5.676ms        steps: 73.4         
+  Dynamic Test (steps=6):                                             
+    A*              time: 10.449ms       steps: 73.5         
+    D*Lite          time: 6.021ms        steps: 73.7         
+  Dynamic Test (steps=7):                                             
+    A*              time: 10.414ms       steps: 72.2         
+    D*Lite          time: 6.543ms        steps: 72.8         
+  Dynamic Test (steps=8):                                             
+    A*              time: 10.441ms       steps: 73.1         
+    D*Lite          time: 6.985ms        steps: 73.7         
+  Dynamic Test (steps=9):                                             
+    A*              time: 10.252ms       steps: 70.4         
+    D*Lite          time: 7.607ms        steps: 71.3         
