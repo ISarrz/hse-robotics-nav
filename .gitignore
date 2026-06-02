@@ -1,0 +1,16 @@
+*.tex
+*.pdf
+*.bib
+*.png
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.run.xml
+*.toc
+points
+__pycache__/
+*.pyc
+build/
+last_session.md

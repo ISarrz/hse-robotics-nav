@@ -1,0 +1,50 @@
+{
+  "z": 0.2,
+  "cylinders": [
+    {
+      "name": "cylinder_0",
+      "axis": "y",
+      "perp": -0.55,
+      "center": -0.12,
+      "amplitude": 0.55,
+      "period": 17.0,
+      "phase": 0.0
+    },
+    {
+      "name": "cylinder_1",
+      "axis": "y",
+      "perp": -0.55,
+      "center": -0.12,
+      "amplitude": 0.55,
+      "period": 17.0,
+      "phase": 3.14159
+    },
+    {
+      "name": "cylinder_2",
+      "axis": "y",
+      "perp": -1.6,
+      "center": -0.40,
+      "amplitude": 0.55,
+      "period": 17.0,
+      "phase": 1.0
+    },
+    {
+      "name": "cylinder_3",
+      "axis": "x",
+      "perp": -0.55,
+      "center": 0.0,
+      "amplitude": 0.55,
+      "period": 17.0,
+      "phase": 0.5
+    },
+    {
+      "name": "cylinder_4",
+      "axis": "y",
+      "perp": 0.55,
+      "center": 0.17,
+      "amplitude": 0.55,
+      "period": 17.0,
+      "phase": 1.57
+    }
+  ]
+}

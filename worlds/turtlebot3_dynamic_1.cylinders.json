@@ -1,0 +1,14 @@
+{
+  "z": 0.2,
+  "cylinders": [
+    {
+      "name": "cylinder_0",
+      "axis": "y",
+      "perp": -0.55,
+      "center": -0.12,
+      "amplitude": 0.55,
+      "period": 17.0,
+      "phase": 0.0
+    }
+  ]
+}
